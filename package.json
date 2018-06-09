@@ -1,11 +1,11 @@
 {
-  "name": "web-server",
+  "name": "node-web-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js" //heroku will start here, the command npm start will start the program
+    "start": "node server.js" 
   },
   "author": "",
   "license": "ISC",
